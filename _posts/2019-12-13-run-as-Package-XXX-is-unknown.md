@@ -3,7 +3,7 @@ layout:     post
 title:	"run-as: Package 'XXX' is unknown"
 subtitle:   
 date:       2019-12-13
-author: 	庞晖
+author: 	null pointer
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags: 	Android

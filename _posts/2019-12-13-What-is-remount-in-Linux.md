@@ -3,7 +3,7 @@ layout:     post
 title:	What is remount in Linux
 subtitle:   
 date:       2019-12-13
-author: 	庞晖
+author: 	null pointer
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags: 	Linux

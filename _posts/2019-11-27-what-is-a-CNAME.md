@@ -3,7 +3,7 @@ layout:     post
 title:	What is a CNAME
 subtitle:   
 date:       2019-11-25
-author: 	庞晖
+author: 	null pointer
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags: 	网络
