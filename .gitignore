@@ -36,3 +36,4 @@ _site
 
 # jekyll cache file
 .jekyll-cache/*
+.jekyll-metadata
