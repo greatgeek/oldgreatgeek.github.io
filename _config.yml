@@ -77,8 +77,8 @@ gitalk:
 ba_track_id: f06fc3bf95532a658c73d8f5496a8cec
 
 # Google Analytics
-# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'G-YVY7T81Y41'            # Format: UA-xxxxxx-xx
+ga_domain: whoisnullpointer.com               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
